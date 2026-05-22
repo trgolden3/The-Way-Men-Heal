@@ -4,6 +4,10 @@ p {
 p {
 }
 
+body {
+  background: #fff;
+}
+
 /* ===== Global TWMH Card Styling ===== */
 
 .twmh-card {
